@@ -1,0 +1,6 @@
+artifact_location: file:///home/felipenunes/Workplace/personal/github/data-sci/project_2/mlruns/4
+creation_time: 1664744696245
+experiment_id: '4'
+last_update_time: 1664744696245
+lifecycle_stage: active
+name: RandomForestClassifier

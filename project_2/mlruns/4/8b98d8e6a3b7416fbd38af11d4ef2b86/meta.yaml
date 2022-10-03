@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felipenunes/Workplace/personal/github/data-sci/project_2/mlruns/4/8b98d8e6a3b7416fbd38af11d4ef2b86/artifacts
+end_time: 1664749757653
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+name: ''
+run_id: 8b98d8e6a3b7416fbd38af11d4ef2b86
+run_uuid: 8b98d8e6a3b7416fbd38af11d4ef2b86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664749405160
+status: 3
+tags: []
+user_id: felipenunes
