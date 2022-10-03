@@ -1,0 +1,6 @@
+artifact_location: file:///home/felipenunes/Workplace/personal/github/data-sci/project_2/mlruns/5
+creation_time: 1664801592168
+experiment_id: '5'
+last_update_time: 1664801592168
+lifecycle_stage: active
+name: DecisionTreeClassifier
